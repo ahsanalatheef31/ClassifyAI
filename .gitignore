@@ -1,0 +1,40 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.sqlite3
+.env
+
+# Node
+node_modules/
+frontend/dist/
+
+# AI Models
+*.gguf
+models/
+
+# Redis / Memurai
+dump.rdb
+
+# Logs
+*.log
+
+# Uploaded/generated files
+media/
+uploads/
+
+# Test images
+product.jpg
+test_shoe.jpg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
